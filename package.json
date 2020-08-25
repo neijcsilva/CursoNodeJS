@@ -1,0 +1,30 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "Arquivo referente ao Curso de NodeJs da HCODE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neijcsilva/CursoNodeJS.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "mongodb",
+    "pth",
+    "url",
+    "crypto",
+    "udp"
+  ],
+  "author": "Neimar José Capati da Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neijcsilva/CursoNodeJS/issues"
+  },
+  "homepage": "https://github.com/neijcsilva/CursoNodeJS#readme"
+}
